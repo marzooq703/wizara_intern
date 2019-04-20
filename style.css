@@ -1,0 +1,25 @@
+.box {
+  width: 60%;
+  height: 150px;
+  background-color: tomato;
+  text-align: center;
+  margin-left: 200px;
+}
+.box:hover {
+  width: 100%;
+  margin: 0;
+  transition: 2s;
+}
+.box1 {
+  width: 100%;
+  height: 400px;
+  background-color: tomato;
+}
+.boxCenter {
+  width: 80%;
+  height: 80%;
+  margin: 0 auto;
+}
+.name {
+  text-transform: capitalize;
+}
